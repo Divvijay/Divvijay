@@ -146,3 +146,4 @@ Some of the technologies used and implemented by Coinbase are as follows:
 (n.d.). Retrieved from Crytocurrency facts.com: [](https://cryptocurrencyfacts.com/)
 
 (2021). Retrieved from Crunchbase: [](https://www.crunchbase.com/organization/coinbase)
+[](https://www.sec.gov/Archives/edgar/data/0001679788/000162828021006850/coinbaseglobalinc424b.htm#ieaae362603cf40bfa0bef8a383bacd66_67)
