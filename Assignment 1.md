@@ -136,7 +136,7 @@ Some of the technologies used and implemented by Coinbase are as follows:
 
 •	The company currently has a rigorous system to analyze the security of digital assets that It lists on its exchange. However, the CEO currently announced that it will list the newly launched digital assets on the exchange, the company needs to be more diligent in determining the regulatory environment and the security aspect of the asset.
 
-•	Coinbase could observe rise in competition from other budding cryptocurrency exchanges, and hence it needs to prepare for it. It might face stiff competition from other applications such as Robinhood which offers its customers zero commission fees. Hence Coinbase needs to quickly develop its subscriptions-based products and services and reduce its reliance on revenues from transaction fees.
+•	Coinbase could observe rise in competition from other budding cryptocurrency exchanges, and hence it needs to prepare for it. It might face stiff competition from other applications such as Robinhood which offers its customers zero commission fees. Hence Coinbase needs to quickly develop its subscriptions-based products and services and reduce its reliance on revenues from transaction fees. 
 
 # References
 (n.d.). Retrieved from Crunchbas/Financials: [](https://www.crunchbase.com/organization/coinbase/company_financials)
