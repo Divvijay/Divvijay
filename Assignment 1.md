@@ -71,10 +71,15 @@ The major players which facilitates cryptocurrency transactions are the cryptocu
 Coinbase is an online platform that allows merchants, consumers, and traders to transact with digital currency. It allows its users to create their own bitcoin wallets and start buying or selling bitcoins by connecting with their bank accounts. Also, it provides a series of merchant payment processing systems and tools that support many highly trafficked websites on the internet. Coinbase was launched in 2012 with a mission to create an open financial system for the world. It is operated from San Francisco, California. (Crunchbase, 2021).
 
 ## Founders of the company
-The key personnel of the company are as follows:
+
+**The key personnel of the company are as follows:
+
 Co- Founder & CEO – Brian Armstrong
+
 President & CEO – Emilie Choi
+
 CF0 – Alesia Haas
+
 ## The Funding so far
 
 •	Coinbase has raised a total of $547.3M in funding over 12 rounds. Their latest funding was raised on Oct 1, 2020 from a Venture - Series Unknown round. Coinbase is registered under the ticker
