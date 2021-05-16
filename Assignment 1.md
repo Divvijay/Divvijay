@@ -139,11 +139,11 @@ Some of the technologies used and implemented by Coinbase are as follows:
 •	Coinbase could observe rise in competition from other budding cryptocurrency exchanges, and hence it needs to prepare for it. It might face stiff competition from other applications such as Robinhood which offers its customers zero commission fees. Hence Coinbase needs to quickly develop its subscriptions-based products and services and reduce its reliance on revenues from transaction fees. 
 
 # References
-(n.d.). Retrieved from Crunchbas/Financials: [](https://www.crunchbase.com/organization/coinbase/company_financials)
+(n.d.). Retrieved from Crunchbas/Financials:https://www.crunchbase.com/organization/coinbase/company_financials
 
-(n.d.). Retrieved from Coindesk: [](https://www.coindesk.com/learn/blockchain-101/how-does-blockchain-technology-work)
+(n.d.). Retrieved from Coindesk:https://www.coindesk.com/learn/blockchain-101/how-does-blockchain-technology-work
 
-(n.d.). Retrieved from Crytocurrency facts.com: [](https://cryptocurrencyfacts.com/)
+(n.d.). Retrieved from Crytocurrency facts.com: https://cryptocurrencyfacts.com/
 
-(2021). Retrieved from Crunchbase: [](https://www.crunchbase.com/organization/coinbase)
-[](https://www.sec.gov/Archives/edgar/data/0001679788/000162828021006850/coinbaseglobalinc424b.htm#ieaae362603cf40bfa0bef8a383bacd66_67)
+(2021). Retrieved from Crunchbase: https://www.crunchbase.com/organization/coinbase
+https://www.sec.gov/Archives/edgar/data/0001679788/000162828021006850/coinbaseglobalinc424b.htm#ieaae362603cf40bfa0bef8a383bacd66_67
