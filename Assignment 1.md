@@ -15,8 +15,8 @@ Once there is this consensus, the distributed ledger has been updated, and all n
  Block chains are also called immutable, because it takes huge effort to change an entry in the database because it would require changing all of the data that comes afterwards, on every single node.
 ### Applicability of Block Chains
 **Block chains are useful when**:
-•Data and its history are important to the digital relationships they are helping to establish, then blockchains offer a flexible capacity by enabling many parties to write new entries into a system of record that is also held by many custodians.
-•	if existing IT infrastructure featuring accounts and logins is not sufficient for the security of digital identity, then the problem might be solved by blockchain technology.
+•Data and its history are important to the digital relationships they are helping to establish, then blockchains offer a flexible capacity by enabling many parties to write new entries into a system of record that is also held by many custodians. ___
+•	if existing IT infrastructure featuring accounts and logins is not sufficient for the security of digital identity, then the problem might be solved by blockchain technology.___
 •	If a database requires millions of dollars to secure lightweight financial transactions, then there is a chance blockchains are good solution to the traditional IT systems. 
 •	However, if high performance, millisecond transactions are required, then it’s best to stick with a traditional-model centralized system. Blockchains as databases are slow and there is a cost to storing the data – the processing (or ‘mining’) of every block in a chain. As of now, Centralized data systems based on the client-server model are faster and less expensive.
 *Applicability of Block Chain in Finance*
@@ -87,7 +87,7 @@ Some of the technologies used and implemented by Coinbase are as follows:
 •	The company currently has a rigorous system to analyze the security of digital assets that It lists on its exchange. However, the CEO currently announced that it will list the newly launched digital assets on the exchange, the company needs to be more diligent in determining the regulatory environment and the security aspect of the asset.
 •	Coinbase could observe rise in competition from other budding cryptocurrency exchanges, and hence it needs to prepare for it. It might face stiff competition from other applications such as Robinhood which offers its customers zero commission fees. Hence Coinbase needs to quickly develop its subscriptions-based products and services and reduce its reliance on revenues from transaction fees.
 # References
-(n.d.). Retrieved from Crunchbas/Financials: [](https://www.crunchbase.com/organization/coinbase/company_financials)
+(n.d.). Retrieved from Crunchbas/Financials: [](https://www.crunchbase.com/organization/coinbase/company_financials)___
 (n.d.). Retrieved from Coindesk: [](https://www.coindesk.com/learn/blockchain-101/how-does-blockchain-technology-work)
 (n.d.). Retrieved from Crytocurrency facts.com: [](https://cryptocurrencyfacts.com/)
 (2021). Retrieved from Crunchbase: [](https://www.crunchbase.com/organization/coinbase)
